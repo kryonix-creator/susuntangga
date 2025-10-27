@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Susun Tangga Hukum Negaraku</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <h1>⚖️ Susun Tangga Hukum Negaraku</h1>
+  <p>Susun peraturan dari <b>yang tertinggi</b> ke <b>yang terendah</b>.</p>
+
+  <div id="game-area">
+    <div id="blocks"></div>
+    <div id="slots"></div>
+  </div>
+
+  <button id="check">✅ Periksa</button>
+  <button id="reset">🔄 Ulangi</button>
+  <p id="result"></p>
+
+  <script src="scripts.js"></script>
+</body>
+</html>
